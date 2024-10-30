@@ -1,0 +1,3 @@
+[submodule "cpp/factorial/external/googletest"]
+	path = cpp/factorial/external/googletest
+	url = https://github.com/google/googletest.git
