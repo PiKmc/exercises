@@ -13,4 +13,5 @@ TEST_P (twoSumTestFixture, testTwoSum)
 {
         auto param = GetParam();
         EXPECT_EQ (param.expected_result, m_twoSum->bruteForce(param.nums, param.target));
+        EXPECT_EQ (param.expected_result, m_twoSum->hash(param.nums, param.target));
 }

@@ -10,6 +10,7 @@
 class twoSum {
 public:
     std::vector<int> bruteForce(std::vector<int>& nums, int target);
+    std::vector<int> hash(std::vector<int>& nums, int target);
 };
 
 #endif // _TWOSUM_H_
