@@ -1,7 +1,7 @@
 C++ exercises: Two Sum
 ======================
 
-[Description] (https://leetcode.com/problems/two-sum/description/)
+Description: https://leetcode.com/problems/two-sum/description/
 
 ------------------
 Build instructions
