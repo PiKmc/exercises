@@ -5,7 +5,6 @@
 #ifndef _TWOSUMTESTFIXTURE_H_
 #define _TWOSUMTESTFIXTURE_H_
 
-#include <algorithm>
 #include <vector>
 #include <ostream>
 #include <gtest/gtest.h>

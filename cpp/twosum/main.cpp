@@ -2,11 +2,10 @@
 // Copyright (C) 2024 by Piotr Kmiecik
 // E-mail: info@aserio.pl
 
-#include "include/twoSumTestFixture.h"
 #include <iostream>
+#include <vector>
 
 #include <twoSumTestFixture.h>
-#include <vector>
 
 namespace twoSumTest {
 

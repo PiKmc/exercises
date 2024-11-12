@@ -9,8 +9,8 @@
 
 class twoSum {
 public:
-    std::vector<int> bruteForce(std::vector<int>& nums, int target);
-    std::vector<int> hash(std::vector<int>& nums, int target);
+    std::vector<int> bruteForce(const std::vector<int>& nums, const int target) const;
+    std::vector<int> hash(const std::vector<int>& nums, const int target) const;
 };
 
 #endif // _TWOSUM_H_

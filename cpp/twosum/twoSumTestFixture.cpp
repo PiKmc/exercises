@@ -2,6 +2,8 @@
 // Copyright (C) 2024 by Piotr Kmiecik
 // E-mail: info@aserio.pl
 
+#include <algorithm>
+
 #include <twoSumTestFixture.h>
 
 namespace twoSumTest {

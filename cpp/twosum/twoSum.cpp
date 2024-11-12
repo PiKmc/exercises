@@ -2,12 +2,11 @@
 // Copyright (C) 2024 by Piotr Kmiecik
 // E-mail: info@aserio.pl
 
-#include <cstddef>
 #include <unordered_map>
 
 #include <twoSum.h>
 
-std::vector<int> twoSum::bruteForce(std::vector<int>& nums, int target)
+std::vector<int> twoSum::bruteForce(const std::vector<int>& nums, const int target) const
 {
         for (int i=0; i<nums.size(); ++i)
                 for (int j=0;j<nums.size(); ++j)
@@ -18,7 +17,7 @@ std::vector<int> twoSum::bruteForce(std::vector<int>& nums, int target)
         return {};
 }
 
-std::vector<int> twoSum::hash(std::vector<int>& nums, int target)
+std::vector<int> twoSum::hash(const std::vector<int>& nums, const int target) const
 {
         std::unordered_map<int,int> mp;
         for (int i=0; i<nums.size();++i)
