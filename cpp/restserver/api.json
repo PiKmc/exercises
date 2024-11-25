@@ -1,5 +1,5 @@
 [ 
-        {"endpoint":"/ZXone", "message":"Response to get request 1"},
+        {"endpoint":"/one", "message":"Response to get request 1"},
         {"endpoint":"/two", "message":"Response to get request 2"},
         {"endpoint":"/three", "message":"Response to get request 3"},
         {"endpoint":"/four", "message":"Response to get request 4"},
