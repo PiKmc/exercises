@@ -1,0 +1,13 @@
+[ 
+        {"endpoint":"/ZXone", "message":"Response to get request 1"},
+        {"endpoint":"/two", "message":"Response to get request 2"},
+        {"endpoint":"/three", "message":"Response to get request 3"},
+        {"endpoint":"/four", "message":"Response to get request 4"},
+        {"endpoint":"/five", "message":"Response to get request 5"},
+        {"endpoint":"/six", "message":"Response to get request 6"},
+        {"endpoint":"/seven", "message":"Response to get request 7"},
+        {"endpoint":"/eight", "message":"Response to get request 8"},
+        {"endpoint":"/nine", "message":"Response to get request 9"},
+        {"endpoint":"/ten", "message":"Response to get  request 10"}
+]
+
