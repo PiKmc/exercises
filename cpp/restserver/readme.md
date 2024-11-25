@@ -16,6 +16,7 @@ Build and run server
 Use curl to test the API listed in api.json e.g.:
 ```shell
  $ curl http://127.0.0.1:7654/one
+```
 
 ------------------------
 Build instructions linux
